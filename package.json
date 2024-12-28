@@ -1,0 +1,15 @@
+{
+  "name": "falling-sand",
+  "version": "1.0.0",
+  "description": "- [The nature of code](https://natureofcode.com/) by Daniel Shiffman\r - [Coding Challenge 180: Falling Sand](https://www.youtube.com/watch?v=L4u7Zy_b868)\r - [Making a falling sand simulator](https://jason.today/falling-sand)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Miguel Diaz",
+  "license": "MIT",
+  "dependencies": {
+    "p5": "^1.11.2"
+  }
+}
